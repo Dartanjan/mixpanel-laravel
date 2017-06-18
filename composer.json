@@ -1,0 +1,14 @@
+{
+    "name": "dartanjan/mixpanel-php",
+    "description": "Mixpanel wrapper for Laravel",
+    "require": {
+        "laravel/laravel": "~5.0",
+        "mixpanel/mixpanel-php": "^2.6"
+    },
+    "authors": [
+        {
+            "name": "Darko Stanimirovic",
+            "email": "darko.stanimirovic@gmail.com"
+        }
+    ]
+}
